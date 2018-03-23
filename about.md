@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Tony Vu. I am a fullstack developer from Sydney, Australia. I am currently working mainly with Java, Python for backend and ReactJS, VueJS for frontend.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy travelling and have been to more than 20 countries.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tonyvu2008@gmail.com](mailto:tonyvu2008@gmail.com)
