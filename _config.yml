@@ -87,3 +87,5 @@ exclude:
 
 # Theme
 remote_theme: poole/hyde
+
+theme: jekyll-theme-slate
