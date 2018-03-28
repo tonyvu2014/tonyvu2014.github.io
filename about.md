@@ -14,6 +14,8 @@ My favourite cities are Sydney and San Francisco.
 
 My favourite show is Shark Tank.
 
+I am interested in Startups, AI and Flying Car.
+
 ### Contact me
 
 [tonyvu2008@gmail.com](mailto:tonyvu2008@gmail.com)
