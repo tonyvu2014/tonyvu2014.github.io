@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manifesto
-permalink: /manisfesto/
+permalink: /manifesto/
 ---
 
 The personal values that I live with can be summarized as MPH.
